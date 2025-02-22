@@ -1,5 +1,7 @@
 # fitness-club-react-tailwind
 
+https://sayotekey.github.io/fitness-club-react-tailwind/ (link will be refreshed after update)
+
 [![Used Software](https://skillicons.dev/icons?i=vite,react,tailwind)](https://skillicons.dev)
 
 - a project with Vite, React, React Router and Tailwind CSS
