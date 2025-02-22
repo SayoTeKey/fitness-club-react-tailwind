@@ -1,10 +1,12 @@
 # fitness-club-react-tailwind
 
-[![Used Software](https://skillicons.dev/icons?i=vite,react,tailwind)](https://skillicons.dev)
+My used software for this project:[![Used Software](https://skillicons.dev/icons?i=vite,react,js,tailwind)]
 
-- a project with Vite, React, React Router and Tailwind CSS
+- a project with Vite, React, JS, React Router and Tailwind CSS
 
-- a fictional website for a fitness club with:
+---
+
+## a fictional website for a fitness club with:
 
 - Landing page with news and events
 - Contact Us
@@ -30,6 +32,7 @@
 ### use Vite and React
 
 - `npm init vite@latest fitness-club`
+- select `react` and `react-js`
 - `cd fitness-club`
 - `npm i`
 
