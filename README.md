@@ -1,13 +1,8 @@
 # fitness-club-react-tailwind
 
-<<<<<<< HEAD
-My used software for this project:[![Used Software](https://skillicons.dev/icons?i=vite,react,tailwind)]
-=======
 https://sayotekey.github.io/fitness-club-react-tailwind/ (link will be refreshed after update)
 
 [![Used Software](https://skillicons.dev/icons?i=vite,react,js,tailwind)](https://skillicons.dev)
-
-> > > > > > > 9c97ddf77ce05f54ef15417235cc64ceb421502c
 
 - a project with Vite, React, JS, React Router and Tailwind CSS
 
@@ -53,3 +48,22 @@ https://sayotekey.github.io/fitness-club-react-tailwind/ (link will be refreshed
 ### for React Router
 
 - `npm i react-router-dom`
+
+project structure:
+
+```bash
+── package.json
+
+── package.json
+├── package-lock.json
+├── postcss.config.js
+├── public
+├── README.md
+└── src
+    ├── App.css
+    ├── App.jsx
+    ├── assets
+    ├── components
+    ├── index.css
+    └── main.jsx
+```
